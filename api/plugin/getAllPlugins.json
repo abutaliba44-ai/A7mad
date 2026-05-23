@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "installedVersion": "1.0.0",
+      "pluginRenderingName": "YouTube Downloader",
+      "pluginPackageName": "com.a7mad.ytdl",
+      "pluginID": "a7mad-ytdl-001",
+      "iconURI": null,
+      "author": "A7mad",
+      "pluginDescription": "Download YouTube videos and audio.",
+      "requiredEnvironment": "PERMISSIVE",
+      "entryPoint": "index.sh",
+      "pluginURI": "https://abutaliba44-ai.github.io/A7mad/plugins/ytdl.zip"
+    }
+  ],
+  "meta": {
+    "limit": 10,
+    "hasMore": false
+  }
+}
