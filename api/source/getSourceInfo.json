@@ -1,1 +1,5 @@
-
+{
+  "sourceID": "a7mad-plugin-store",
+  "sourceName": "A7mad Plugin Store",
+  "sourceRemoteEndpoint": "https://abutaliba44.github.io/A7mad/api"
+}
